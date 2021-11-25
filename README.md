@@ -12,7 +12,7 @@ This simple, straightforward site allows the user to easily generate a random pa
 https://christopherlawn.github.io/password-generator/
 
 ## Screenshot of Password Generator Homepage
-
+![password-generator-screenshot](https://user-images.githubusercontent.com/91863054/143421627-448fd12b-dca3-4650-ab82-3528ab2ace6c.PNG)
 
 ## Contribution
 Made with ❤️ by Chris Lawn
