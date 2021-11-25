@@ -11,8 +11,8 @@ This simple, straightforward site allows the user to easily generate a random pa
 ## Website
 https://christopherlawn.github.io/password-generator/
 
-## Screenshot of Portfolio Homepage
-![Password Generator Screenshot](.assets/password-generator-screenshot.png)
+## Screenshot of Password Generator Homepage
+![password-generator-screenshot](https://user-images.githubusercontent.com/91863054/143418509-08f19603-95e5-49d6-bb07-ebb2c0d1161f.PNG)
 
 ## Contribution
 Made with ❤️ by Chris Lawn
